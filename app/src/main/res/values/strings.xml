@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GreenGuard</string>
+    <string name="anthracnose_description">1. Anthracnose (Colletotrichum gloeosporioides)\n\nThe disease is more common on young fruits and during transit and storage. Latent infection during pre-harvest stage is responsible for post harvest rots. On storage, black spots are produced. Initially the spots are round but later form large irregular blotches on the entire fruits the spots have large deep cracks and the fungus penetrates deep into the fruit causing extensive rotting.\n\nControl:\n\u2022 Pre-harvest infections can be managed by spraying copper-based fungicides after completion of heavy showers.\n\u2022 Post-harvest infections can be managed as pre-harvest sprays in the field to reduce the latent infection and treatment of the fruit with hot water/fungicides after harvest to eradicate leftover latent infection.</string>
+
+    <string name="stem_end_rot_description">2. Stem End Rot (Lasiodiplodia theobromae, Phomospsis mangiferae, Dothiorella doninicana)\n\nThe fruit while ripening suddenly becomes brown to black typically at stem end. Within two to three days whole fruit becomes black and disease progresses downwards, thus involving half of the area of the fruits. Though the flush of the whole fruit often wrinkles are also observed. Affected skin remains firm but decay sets into the pulp below and emits an unpleasant odor.\n\nControl:\n\u2022 Prompt and proper handling of the fruit can minimize disease incidence.\n\u2022 Fruit should be harvested with a 10mm stalk.\n\u2022 Pre-harvest sprays of any systemic fungicides or copper-based fungicides reduce the incidence of SER.</string>
+
+    <string name="default_result_text">No match found.</string>
+
+</resources>
